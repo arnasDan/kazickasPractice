@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485328676 source:c:\users\mok2016\documents\4a\vienetukai\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

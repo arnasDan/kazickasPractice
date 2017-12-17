@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1487144426 source:c:\users\mok2016\documents\4a\atostogos\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
+1487199174 source:c:\users\arnas\onedrive\c++\atostogos\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

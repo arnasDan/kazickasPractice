@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486539115 source:c:\users\mok2016\documents\4a\temperatûros\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

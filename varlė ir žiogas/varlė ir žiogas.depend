@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1488958796 source:c:\users\mok2016\documents\4a\varlë ir þiogas\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+
+1488994267 source:c:\users\arnas\onedrive\c++\kazickas\varlë ir þiogas\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+

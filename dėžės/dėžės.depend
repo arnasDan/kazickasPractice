@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489563044 source:c:\users\mok2016\documents\4a\dëþës\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

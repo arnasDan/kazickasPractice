@@ -1,0 +1,12 @@
+5 9
+Lajiniksa
+aKaminumr
+isbisaCeg
+viiGaisii
+elnettiKs
+5
+Kabinetas 2 2
+Laivelis 1 1
+Giminaitis 4 4
+Cukinija 3 7
+Kiemsargis 5 8

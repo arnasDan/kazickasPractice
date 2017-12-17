@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1488829865 source:c:\users\arnas\onedrive\c++\kazickas\plotas ir perimetras\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
+1488829865 source:c:\users\dell\onedrive\c++\kazickas\plotas ir perimetras\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

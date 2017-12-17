@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488996667 source:c:\users\arnas\onedrive\c++\kazickas\robotas\main.cpp
+	<iostream>
+	<fstream>
+

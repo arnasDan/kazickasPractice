@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489336988 source:c:\users\arnas\onedrive\c++\kazickas\susitikimas\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<limits.h>
+
